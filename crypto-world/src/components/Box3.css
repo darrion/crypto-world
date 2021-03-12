@@ -1,0 +1,7 @@
+#box-three {
+    background-color: #28ff57;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }

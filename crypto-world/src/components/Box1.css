@@ -1,0 +1,7 @@
+#box-one {
+    background-color: #286fff;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
